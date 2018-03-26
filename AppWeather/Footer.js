@@ -8,7 +8,7 @@ const Footer = (props) => {
   const { textStyle, backFooter } = styles;
   return (
     <View style={backFooter}>
-      <Text style={textStyle}>Copyright @ericwidhiantara</Text>
+      <Text style={textStyle}>Copyright @AgusHadinata</Text>
     </View>
   );
 };
